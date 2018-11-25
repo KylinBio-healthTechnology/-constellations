@@ -1,38 +1,38 @@
 {
-  "mainname" : "Twelve Constellations",
+  "mainname" :"Twelve Constellations",
   "formed" : 2018,
   "active" : true,
   "members" : [
     {
-    　"name" : "白羊座",
-      "English" : "Aries",
-      "time" : "3月21日-4月19日",
-      "alias" : "牡羊座",
-      "symble":"新的开始",
-      "planet":"火星",
-      "flower" : [
+    "name" : "白羊座",
+    "English" : "Aries",
+    "time" : "3月21日-4月19日",
+    "alias" : "牡羊座",
+    "symble":"新的开始",
+    "planet":"火星",
+    "flower" : [
         "樱花",
         "雏菊"
       ]
     },
      {
-    　"name" : "金牛座",
-      "English" : "Taurus",
-      "time" : "4月20日-5月20日",
-      "alias" : "金牛座",
-      "symble":"力量",
-      "planet":"金星",
-      "flower" : [
+   "name" :"金牛座",
+   "English" : "Taurus",
+   "time" : "4月20日-5月20日",
+   "alias" : "金牛座",
+   "symble":"力量",
+   "planet":"金星",
+   "flower" : [
         "牵牛花",
         "康乃馨"
       ]
     },
      {
-    　"name" : "双子座",
-      "English" : "Gemini",
-      "time" : "5月21日-6月21日",
-      "alias" : "双子座",
-      "symble":"智慧",
+   "name" : "双子座",
+   "English" : "Gemini",
+   "time" : "5月21日-6月21日",
+   "alias" : "双子座",
+   "symble":"智慧",
       "planet":"水星",
       "flower" : [
         "羊齿蕨",
@@ -41,7 +41,7 @@
       ]
     },
      {
-    　"name" : "巨蟹座",
+   "name" : "巨蟹座",
       "English" : "Cancer",
       "time" : "6月22日-7月22日",
       "alias" : "巨蟹座",
@@ -54,7 +54,7 @@
       ]
     },
      {
-    　"name" : "狮子座",
+   "name" : "狮子座",
       "English" : "Leo",
       "time" : "7月23日-8月22日",
       "alias" : "狮子座",
@@ -66,7 +66,7 @@
       ]
     },
      {
-    　"name" : "处女座",
+   "name" : "处女座",
       "English" : "Virgo",
       "time" : "8月23日-9月22日",
       "alias" : "室女座",
@@ -79,22 +79,22 @@
       ]
     },
      {
-    　"name" : "天秤座",
-      "English" : "Libra",
-      "time" : "9月23日-10月23日",
-      "alias" : "天平座",
-      "symble":　"平衡",
-      "planet":"金星",
-      "flower" : [
+   "name" : "天秤座",
+    "English" : "你好",
+    "time" : "9月23日-10月23日",
+    "alias" : "天平座",
+    "symble":"平衡",
+    "planet":"金星",
+    "flower" : [
         "海芋",
         "非洲菊",
         "猫尾花"
       ]
     },
      {
-    　"name" : "天蝎座",
+   "name" : "天蝎座",
       "English" : "Scorpio",
-      "time" :　"10月24日-11月22日",
+      "time":"10月24日-11月22日",
       "alias" : "天蝎座",
       "symble":"神秘",
       "planet":"冥王星",
@@ -104,7 +104,7 @@
       ]
     },
      {
-    　"name" : "射手座",
+   "name" : "射手座",
       "English" : "Sagittarius",
       "time" : "11月23日-12月21日",
       "alias" : "人马座",
@@ -116,7 +116,7 @@
       ]
     },
      {
-    　"name" : "摩羯座",
+   "name" : "摩羯座",
       "English" : "Capricorn",
       "time" : "12月22日-1月19日",
       "alias" : "山羊座",
@@ -128,11 +128,11 @@
       ]
     },
      {
-    　"name" : "水瓶座",
+   "name" : "水瓶座",
       "English" : "Aquarius",
-      "time" :　"1月20日-2月18日",
-      "alias" : "宝瓶座",
-      "symble":"叛逆",
+    "time":"1月20日-2月18日",
+    "alias":"宝瓶座",
+    "symble":"叛逆",
       "planet":"天王星",
       "flower" : [
         "水仙",
@@ -140,9 +140,9 @@
       ]
     },
      {
-    　"name" : "双鱼座",
+   "name" : "双鱼座",
       "English" : "Pisces",
-      "time" : "2月19日-3月20日",
+      "time":"2月19日-3月20日",
       "alias" : "双鱼座",
       "symble":"复杂",
       "planet":"海王星",
@@ -153,4 +153,4 @@
     }
   ]
 }
-    
+ 
